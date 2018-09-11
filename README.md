@@ -1,5 +1,3 @@
-# case
-
-# Çalıştırmak için;
-npm install
+# ToDoList;
+npm install <br />
 npm run dev
